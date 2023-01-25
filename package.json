@@ -1,0 +1,19 @@
+{
+  "name": "imagify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lunarang/imagify.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lunarang/imagify/issues"
+  },
+  "homepage": "https://github.com/Lunarang/imagify#readme"
+}
